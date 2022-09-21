@@ -3,7 +3,7 @@
 
 ### Problem Statement : - 
 
-A model to measure the level of awareness of loan products/ brand among public. The data can help to find region-wise awareness of products/brand and take appropriate business decisions.
+A model to input audio discussion between built to find the level of awareness of loan products/ Deposit product/ Insurance plans among cusomers. The data can help to find region-wise awareness of products/brand and take appropriate business decisions.
 
 ### Approach : - 
 
