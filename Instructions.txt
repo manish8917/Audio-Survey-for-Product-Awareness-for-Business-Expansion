@@ -1,4 +1,0 @@
-Brand Measure : Voice collection for semantic analysis for feedback collection of the branch. It can be implemented in every branch to do away with the old system of Feedback Box
-
-Input will be collected in the form of audio. -> It will be converted into chunks -> then to text -> then sentiment analysis can be done over the text.
-
